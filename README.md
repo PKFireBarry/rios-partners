@@ -2,6 +2,7 @@
 
 Just wanted to leave a small summary of my experience working on this project for myself and to help give more insight into the decisions I made and why I chose them over other options.
 
+
 ## Figma
 
 - [Link to Figma file](https://www.figma.com/file/ZTziRVzeXgcguEh9kTUxZo/Rios-Landing-Page?type=design&node-id=0%3A1&t=htDspu7BnbX8bo5X-1)
@@ -13,19 +14,19 @@ Just wanted to leave a small summary of my experience working on this project fo
 
 
 
-## Breakpoints Creation
+### Breakpoints Creation
 
 I spent most of my time creating breakpoints for all the sections of the website in Figma for devices with screens ranging from 1440p all the way down to 375p width screens with a portrait aspect ratio. I was trying to make sure I was catching edge cases where the user has an iPad or some other form of a tablet.
 
-## Anima Plugin
+### Anima Plugin
 
 I thought this would be a good opportunity to try out the Anima plugin for Figma to convert a Figma file to a React project so it can be coded and deployed quickly. While it did work and create the breakpoints where I wanted them, some of the styling doesn't seem to translate well even with all the same dependencies installed as the web client. So looking back, I don't think I would use it again for the sake of having to go back and fix a lot of these small intricate bugs that are padding or font size based in some way. 
 
-## Hamburger Menu Implementation
+### Hamburger Menu Implementation
 
-I tried a few methods of implementing a menu hamburger on the right side of the screen and I did settle on a particular method of creating one using just HTML CSS. But after wasting so much time trying to fix the issues with the breakpoints, I didn't really have much time left over to implement it in a meaningful way instead of just setting it up to function on the screen. I wanted to stay true to the assessment and try to stay under the 4-hour time constraints.
+I tried a few methods of implementing a menu hamburger on the right side of the screen and I did settle on a particular method of creating one using just HTML CSS. But after wasting so much time trying to fix the issues with the breakpoints, I didn't really have much time left over to implement it in a meaningful way instead of just setting it up to function on the screen. I wanted to stay true to the assessment and try to stay under the 4-hour time constraints. the hamburger i set up is on the smallest break point.
 
-## Future Improvements
+### Future Improvements
 
 - Use plain HTML instead of React to avoid strange styling issues
 - Break up the CSS for each breakpoint and create reusable styles when possible
