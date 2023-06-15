@@ -24,7 +24,7 @@ I thought this would be a good opportunity to try out the Anima plugin for Figma
 
 ### Hamburger Menu Implementation
 
-I tried a few methods of implementing a menu hamburger on the right side of the screen and I did settle on a particular method of creating one using just HTML CSS. But after wasting so much time trying to fix the issues with the breakpoints, I didn't really have much time left over to implement it in a meaningful way instead of just setting it up to function on the screen. I wanted to stay true to the assessment and try to stay under the 4-hour time constraints. the hamburger i set up is on the smallest break point.
+I tried a few methods of implementing a menu hamburger on the right side of the screen and I did settle on a particular method of creating one using just HTML CSS. But after wasting so much time trying to fix the issues with the breakpoints, I didn't really have much time left over to implement it in a meaningful way instead of just setting it up to function on the screen. the hamburger i set up is on the smallest break point.
 
 ### Future Improvements
 
