@@ -1,0 +1,15 @@
+.logo {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 63px;
+    width: 187px;
+  }
+  
+  .logo.white {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/648ab3dccf9503fd878a4524/releases/648ab3e712ed6e795d38f7db/img/logo-5@2x.png);
+  }
+  
+  .logo.normal {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/648ab3dccf9503fd878a4524/releases/648ab3e712ed6e795d38f7db/img/logo-4@2x.png);
+  }
+  
