@@ -4,13 +4,14 @@ Just wanted to leave a small summary of my experience working on this project fo
 
 ## Figma
 
-- [Link to Figma file](insert link here)
+- [Link to Figma file](https://www.figma.com/file/ZTziRVzeXgcguEh9kTUxZo/Rios-Landing-Page?type=design&node-id=0%3A1&t=htDspu7BnbX8bo5X-1)
 
 ## Live
 
-- [Link to live website](insert link here)
+- [Link to live website](https://rios-partners.vercel.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Breakpoints Creation
 
@@ -36,6 +37,8 @@ I tried a few methods of implementing a menu hamburger on the right side of the 
 - React
 
 ## Local Setup
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
